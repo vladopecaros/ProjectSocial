@@ -17,7 +17,7 @@ Things I still want to add:
 -Notification panel
 
 What did I use so far:
-The whole aplication is made in ASP.Net Using C#.
+The whole aplication is made in ASP.Net Using C# in Microsoft Visual Studio 2019.
 Login controls and user memberships are handled by ASP.
 User information and Posts are stored in SQL DataBases.
 

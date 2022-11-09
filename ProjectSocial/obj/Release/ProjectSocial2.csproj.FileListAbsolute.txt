@@ -1,0 +1,5 @@
+C:\Users\vlado\documents\visual studio 2012\Projects\ProjectSocial2\ProjectSocial2\bin\ProjectSocial2.dll
+C:\Users\vlado\documents\visual studio 2012\Projects\ProjectSocial2\ProjectSocial2\bin\ProjectSocial2.pdb
+C:\Users\vlado\documents\visual studio 2012\Projects\ProjectSocial2\ProjectSocial2\obj\Release\ProjectSocial2.csprojResolveAssemblyReference.cache
+C:\Users\vlado\documents\visual studio 2012\Projects\ProjectSocial2\ProjectSocial2\obj\Release\ProjectSocial2.dll
+C:\Users\vlado\documents\visual studio 2012\Projects\ProjectSocial2\ProjectSocial2\obj\Release\ProjectSocial2.pdb

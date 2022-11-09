@@ -11,15 +11,17 @@ Functions(So far, more to come):
 -Finding other users.
 -Following other users.
 -Liking other users posts.
+-Administrative pages where administrators can recieve complaints by users on other users or posts, review them and take necessary actions like deleting.
+-Notification panel
 
 Things I still want to add:
--Administrative pages where administrators can recieve complaints by users on other users or posts, review them and take necessary actions like deleting.
 -Comments on posts
--Notification panel
+
 
 What did I use so far:
 The whole aplication is made in ASP.Net Using C# in Microsoft Visual Studio 2019.
 Login controls and user memberships are handled by ASP.
 User information and Posts are stored in SQL DataBases.
+HTML Controls made with JavaScript and Web Site appearance made with CSS.
 
 Fell free to look thru the code and leave your comments and impressions, every suggestion is more than welcome.

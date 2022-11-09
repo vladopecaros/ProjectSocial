@@ -1,0 +1,107 @@
+﻿body {
+    background-color: #091b38;
+    color: white;
+    font-size: 18pt;
+}
+.TextBox {
+    font-size: 16px;
+    border-width: 0px;
+    border-color: #CCCCCC;
+    background-color: #FFFFFF;
+    color: #1c91e4;
+    border-style: solid;
+    border-radius: 14px;
+    box-shadow: 0px 0px 5px rgba(66,66,66,.75);
+    text-shadow: 0px 0px 5px rgba(66,66,66,.75);
+}
+a:visited {
+    color: antiquewhite;
+}
+
+a {
+    color: antiquewhite;
+}
+
+    a:hover {
+        color: burlywood;
+    }
+
+.SaveBtn {
+    background-color:darkgreen;
+    font-size: 17px;
+    border-radius: 18px;
+    border: 1px solid #d02718;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    text-decoration: none;
+}
+
+.CancelBtn {
+    background-color:orangered;
+    font-size: 17px;
+    border-radius: 18px;
+    border: 1px solid #d02718;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    text-decoration: none;
+}
+
+
+
+
+.ExpandingDiv {
+    opacity: 1;
+    animation-name: fadeIn;
+    -webkit-animation-name: fadeIn;
+    animation-duration: 1.5s;
+    -webkit-animation-duration: 1.5s;
+    animation-timing-function: ease-in-out;
+    -webkit-animation-timing-function: ease-in-out;
+    visibility: visible !important;
+}
+
+@keyframes fadeIn {
+    0% {
+        transform: scale(0);
+        opacity: 0.0;
+    }
+
+    60% {
+        transform: scale(1.1);
+    }
+
+    80% {
+        transform: scale(0.9);
+        opacity: 1;
+    }
+
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fadeIn {
+    0% {
+        -webkit-transform: scale(0);
+        opacity: 0.0;
+    }
+
+    60% {
+        -webkit-transform: scale(1.1);
+    }
+
+    80% {
+        -webkit-transform: scale(0.9);
+        opacity: 1;
+    }
+
+    100% {
+        -webkit-transform: scale(1);
+        opacity: 1;
+    }
+}

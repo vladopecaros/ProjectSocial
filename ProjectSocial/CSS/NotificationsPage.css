@@ -1,0 +1,17 @@
+﻿body {
+    background-color: #091b38;
+    color: white;
+    font-size: 18pt;
+}
+
+a:visited {
+    color: antiquewhite;
+}
+
+a {
+    color: antiquewhite;
+}
+
+    a:hover {
+        color: burlywood;
+    }

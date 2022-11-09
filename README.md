@@ -2,7 +2,9 @@
 Basically a learning project, copy of bigger social media platforms
 
 *Disclaimer: Pardon my spelling, English is not my primary language.
-NOTE: IF YOU WANT TO EDIT THE CODE, ATTACH THE DB FILES INTO SQL AND CHAGE THE CONNECTION STRINGS IN CONFIGURATION FILE OF THE WEB APP!!
+
+NOTE: IF YOU WANT TO EDIT THE CODE, ATTACH THE DB FILES INTO SQL AND CHAGE THE CONNECTION STRINGS IN CONFIGURATION FILE OF THE WEB APP, as well as GridView connections at administrative pages!!
+
 So this is a project i've ben working on for some time. This is only for my personal learning and knowladge expanding purpouses.
 The idea behind this project is to try to make a social media platform like twitter or instagram but without algorithams for feed.
 Functions(So far, more to come):
